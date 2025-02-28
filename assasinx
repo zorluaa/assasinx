@@ -51,7 +51,6 @@ local Window = Rayfield:CreateWindow({
 
  local Section = Tab2:CreateSection("Silent Aim")
 
- local Section = Tab3:CreateSection("LOCALPLAYER")
 
 
 
@@ -316,6 +315,7 @@ local Toggle = Tab2:CreateToggle({
     end,
 })
 
+local Section = Tab3:CreateSection("LOCALPLAYER")
 
 
 local Slider = Tab3:CreateSlider({
