@@ -330,7 +330,7 @@ local Section1 = Tab3:CreateSlider({
     end,
  })
 
- local Slider = Tab3:CreateSlider({
+ local Section1 = Tab3:CreateSlider({
     Name = "Change JumpPower",
     Range = {16, 200},
     Increment = 10,
@@ -343,7 +343,7 @@ local Section1 = Tab3:CreateSlider({
  })
 
 
- local Slider = Tab3:CreateSlider({
+ local Section1 = Tab3:CreateSlider({
     Name = "Change Camera FOV",
     Range = {16, 200},
     Increment = 10,
