@@ -1,7 +1,7 @@
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
-    Name = "Void.lua Assassin X [Beta Verison] [Made By Zor <3]",
+    Name = "Void.lua Assassin X [Beta Verison] ",
     Icon = 0, -- Icon in Topbar. Can use Lucide Icons (string) or Roblox Image (number). 0 to use no icon (default).
     LoadingTitle = "Void.lua",
     LoadingSubtitle = "by Zor",
