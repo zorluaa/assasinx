@@ -315,10 +315,10 @@ local Toggle = Tab2:CreateToggle({
     end,
 })
 
-local Section = Tab3:CreateSection("LOCALPLAYER")
+local Section1 = Tab3:CreateSection("LOCALPLAYER")
 
 
-local Slider = Tab3:CreateSlider({
+local Section1 = Tab3:CreateSlider({
     Name = "Change Walkspeed",
     Range = {16, 200},
     Increment = 10,
